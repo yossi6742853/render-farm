@@ -1,0 +1,1 @@
+{"cmd": "ANIM=1 SHOT=bedroom FRAMES=168 SAMPLES=28 RW=1280 RH=720 bash run.sh", "merge": "FRAMES=168 FPS=24 NAME=tour_bedroom bash tour_merge.sh", "workers": 1}
